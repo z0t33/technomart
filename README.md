@@ -1,1 +1,1 @@
-Верстка фикс. проекта technomart от htmlAcademy
+Фикс. верстка проекта technomart от htmlAcademy
