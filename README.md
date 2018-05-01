@@ -1,1 +1,1 @@
-Верстка фикс. проекта technomarkt от htmlAcademy
+Верстка фикс. проекта technomart от htmlAcademy
